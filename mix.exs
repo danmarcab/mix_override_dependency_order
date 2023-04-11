@@ -21,8 +21,8 @@ defmodule MixOverrideDependencyOrder.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:grpc, "~> 0.5.0"},
-      {:tesla, "~> 1.6.0"}
+      {:tesla, "~> 1.6.0"},
+      {:grpc, "~> 0.5.0"}
     ]
   end
 end
